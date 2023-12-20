@@ -8,3 +8,6 @@ git commit -m "Message" => git commited to repository with Message
 //connent with github acc
 git config user.name githubAccName
 git config user.email githubAccEmail
+
+//add github repository link
+git remote add [name] [link]
