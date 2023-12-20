@@ -21,3 +21,8 @@ git push [remote.nam] [branch.name]
 // git branch
 git branch -v => current branch
 git branch -M [branch.name] => create new branch
+git switch [branch.name] => switch to anothter branch
+
+//git deep dive
+git clone [repository.link] => download any repository
+git pull [remote.name] [branch.name] => download only from remote name
